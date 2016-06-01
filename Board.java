@@ -15,7 +15,7 @@ import javax.swing.Timer;
 
 public class Board extends JPanel implements ActionListener {
 
-   private final boolean DEBUG = true;
+   private final boolean DEBUG = false;
 
    private Timer timer;
    private Craft craft;
