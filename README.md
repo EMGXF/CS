@@ -1,2 +1,2 @@
 # CS
-Yummy
+CompSci
